@@ -17,7 +17,7 @@ dependencies {
 }
 ```
 
-![File System Reference] (./screenshot/file.png) ![Preference System Reference] (./screenshot/preference.png)
+<img src="./screenshot/file.png" width="250">  <img src="./screenshot/preference.png" width="250">
 
 For more details,
 </br>https://developer.android.com/jetpack/androidx/releases/security
